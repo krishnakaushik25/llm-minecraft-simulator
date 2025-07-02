@@ -2,8 +2,6 @@
 
 A lightweight, browser-based Minecraft-style game with a built-in AI assistant powered by LLMs — build, explore, and create alongside your smart in-game companion!
 
-**🌟 [PLAY NOW - Live Demo](https://minecraft-llm-game-production.up.railway.app/minecraft-llm-game/) 🌟**
-
 ![Game Status](https://img.shields.io/badge/Status-Live%20Demo%20Available-brightgreen)
 ![Tech Stack](https://img.shields.io/badge/Tech-Three.js%20%2B%20WebLLM-blue)
 ![Deployment](https://img.shields.io/badge/Deployed%20on-Railway-purple)
@@ -12,7 +10,7 @@ A lightweight, browser-based Minecraft-style game with a built-in AI assistant p
 ## 🚀 Quick Start
 
 ### 🌐 Play Online (Recommended)
-**Just visit**: [https://minecraft-llm-game-production.up.railway.app/minecraft-llm-game/](https://minecraft-llm-game-production.up.railway.app/minecraft-llm-game/)
+**🌟 [PLAY NOW - Live Demo](https://minecraft-llm-game-production.up.railway.app/minecraft-llm-game/) 🌟**
 
 No installation needed! The game runs entirely in your browser with AI-powered assistance.
 
