@@ -1,6 +1,6 @@
 # 🎮 Minecraft LLM - AI-Powered Block Building Game
 
-A minimalistic Minecraft-like game that runs entirely in your web browser, featuring an integrated AI assistant powered by Large Language Models. Build, explore, and get creative with help from your AI companion!
+A lightweight, browser-based Minecraft-style game with a built-in AI assistant powered by LLMs — build, explore, and create alongside your smart in-game companion!
 
 **🌟 [PLAY NOW - Live Demo](https://minecraft-llm-game-production.up.railway.app/minecraft-llm-game/) 🌟**
 
